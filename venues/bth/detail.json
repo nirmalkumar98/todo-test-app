@@ -53,8 +53,8 @@
       "description": "Registration, Incubation, Meeting",
       "icon": "/assets/images/icons/place_icon.svg",
       "level": "S",
-      "x": 8,
-      "y": 45
+      "x": 6,
+      "y": 48
     },
     {
       "name": "Reception",
@@ -72,35 +72,8 @@
       "icon": "/assets/images/icons/place_icon.svg",
       "level": "S",
       "x": 13,
-      "y": 54
-    },
-    {
-      "name": "Elevator 1",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "S",
-      "x": 30,
-      "y": 42
-    },
-    {
-      "name": "Elevator 2",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "S",
-      "x": 30,
-      "y": 46
-    },
-    {
-      "name": "stairs",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "S",
-      "x": 31,
-      "y": 35
-    },
+      "y": 75
+    },  
     {
       "name": "Fire Exit",
       "tag": "Registration",
@@ -111,7 +84,7 @@
       "y": 80
     },
     {
-      "name": "Handwash",
+      "name": "Handwash Room",
       "tag": "Registration",
       "description": "Registration, Incubation, Meeting",
       "icon": "/assets/images/icons/place_icon.svg",

@@ -77,7 +77,7 @@
   {
     "name": "Cafeteria",
     "tag": "Food & Beverages",
-    "description": "Dining area for startups, staff, and visitors",
+    "description": "Dining area for staff and visitors",
     "icon": "/assets/images/icons/place_icon.svg",
     "level": "1",
     "x": 16,
@@ -86,7 +86,7 @@
   {
     "name": "Reserved Dining Area",
     "tag": "Staff Dining",
-    "description": "Dining space for mentors, admin, and officials",
+    "description": "Dining space reserved for officials and mentors",
     "icon": "/assets/images/icons/place_icon.svg",
     "level": "1",
     "x": 20,
@@ -140,23 +140,14 @@
   {
     "name": "Accessible Washroom",
     "tag": "Accessibility",
-    "description": "Wheelchair-accessible restroom",
+    "description": "Wheelchair-accessible restroom facility",
     "icon": "/assets/images/icons/place_icon.svg",
     "level": "4",
     "x": 59,
     "y": 35
   },
   {
-    "name": "Startup Offices – Floor 2",
-    "tag": "Startup Zone",
-    "description": "Startup workspaces and offices",
-    "icon": "/assets/images/icons/place_icon.svg",
-    "level": "2",
-    "x": 12,
-    "y": 40
-  },
-  {
-    "name": "Admin Office",
+    "name": "Administration Office",
     "tag": "Administration",
     "description": "Administrative and management office",
     "icon": "/assets/images/icons/place_icon.svg",
@@ -194,25 +185,25 @@
   {
     "name": "Gyan Zone",
     "tag": "Training Room",
-    "description": "Workshops, training, and knowledge sessions",
+    "description": "Training sessions, workshops, and learning programs",
     "icon": "/assets/images/icons/place_icon.svg",
     "level": "4",
     "x": 25,
     "y": 54
   },
   {
-    "name": "Atal Innovation Studio",
-    "tag": "Innovation & Accelerator",
-    "description": "Skill development and startup acceleration space",
+    "name": "Operations Manager",
+    "tag": "Operations & Facility Management",
+    "description": "Operations oversight, facility coordination, and on-ground support",
     "icon": "/assets/images/icons/place_icon.svg",
     "level": "4",
-    "x": 25,
-    "y": 21
+    "x": 23,
+    "y": 90
   },
   {
     "name": "Recreation Zone",
     "tag": "Relaxation",
-    "description": "Battery bank, indoor games, and rest area",
+    "description": "Indoor games, battery bank, and relaxation area",
     "icon": "/assets/images/icons/place_icon.svg",
     "level": "5",
     "x": 28,
@@ -228,18 +219,9 @@
     "y": 66
   },
   {
-    "name": "InMap Office",
-    "tag": "Startup Office",
-    "description": "Indoor mapping and navigation solutions team",
-    "icon": "/assets/images/icons/place_icon.svg",
-    "level": "5",
-    "x": 23,
-    "y": 33
-  },
-  {
-    "name": "Technical Team (iStart)",
-    "tag": "Support",
-    "description": "Technical support and operations team",
+    "name": "Technical Support Team",
+    "tag": "IT & Support",
+    "description": "Technical support and infrastructure assistance",
     "icon": "/assets/images/icons/place_icon.svg",
     "level": "5",
     "x": 15,
@@ -248,7 +230,7 @@
   {
     "name": "Robotics Activity Zone",
     "tag": "Robotics",
-    "description": "Robotics games and demonstrations",
+    "description": "Robotics demonstrations and interactive activities",
     "icon": "/assets/images/icons/place_icon.svg",
     "level": "7",
     "x": 21,
@@ -257,13 +239,12 @@
   {
     "name": "Maintenance Office",
     "tag": "Facility Management",
-    "description": "Building maintenance and support services",
+    "description": "Building maintenance and facility support",
     "icon": "/assets/images/icons/place_icon.svg",
     "level": "8",
     "x": 27,
     "y": 65
   }
 ]
-
 
 }

@@ -47,689 +47,223 @@
     }
   ],
   "selectionList": [
-    {
-      "name": "Entrance / Exit (Floor S)",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "S",
-      "x": 6,
-      "y": 48
-    },
-    {
-      "name": "Reception",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "S",
-      "x": 12,
-      "y": 50
-    },
-    {
-      "name": "Lobby - (Floor: S)",
-      "tag": "Registration",
-      "description": "Waiting area",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "S",
-      "x": 13,
-      "y": 75
-    },  
-    {
-      "name": "Fire Exit",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "S",
-      "x": 44,
-      "y": 80
-    },
-    {
-      "name": "Handwash Room",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "1",
-      "x": 36,
-      "y": 12
-    },
-    {
-      "name": "Male Washroom",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "1",
-      "x": 35,
-      "y": 32
-    },
-    {
-      "name": "Female Washroom",
-      "tag": "Registration",
-      "description": "Washroom, Facility, Restroom",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "1",
-      "x": 33,
-      "y": 28
-    },
-    {
-      "name": "Elevator 1",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "1",
-      "x": 30,
-      "y": 42
-    },
-    {
-      "name": "Elevator 2",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "1",
-      "x": 30,
-      "y": 46
-    },
-    {
-      "name": "stairs",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "1",
-      "x": 31,
-      "y": 35
-    },
-    {
-      "name": "Fire Exit",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "1",
-      "x": 31,
-      "y": 55
-    },
-    {
-      "name": "Reserved Dining",
-      "tag": "Registration",
-      "description": "Staff, Mentors, Admin team and other officials",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "1",
-      "x": 20,
-      "y": 70
-    },
-    {
-      "name": "Cafeteria",
-      "tag": "Registration",
-      "description": "Startups, Visiters etc",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "1",
-      "x": 16,
-      "y": 41
-    },
-    {
-      "name": "Elevator 1",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "2",
-      "x": 30,
-      "y": 42
-    },
-    {
-      "name": "Elevator 2",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "2",
-      "x": 30,
-      "y": 46
-    },
-    {
-      "name": "stairs",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "2",
-      "x": 31,
-      "y": 35
-    },
-    {
-      "name": "Fire Exit",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "2",
-      "x": 31,
-      "y": 55
-    },
-    {
-      "name": "Male Washroom",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "2",
-      "x": 31,
-      "y": 28
-    },
-    {
-      "name": "Female Washroom",
-      "tag": "Registration",
-      "description": "Washroom, Facility, Restroom",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "2",
-      "x": 33,
-      "y": 28
-    },
-    {
-      "name": "Quick event (Rupak connect Pvt. Ltd.)",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "2",
-      "x": 12,
-      "y": 22
-    },
-    {
-      "name": "Eerabiz solution",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "2",
-      "x": 12,
-      "y": 55
-    },
-    {
-      "name": "Director - Tapan Kumar",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "2",
-      "x": 29,
-      "y": 11
-    },
-    {
-      "name": "Electro Global",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "2",
-      "x": 19,
-      "y": 51
-    },
-    {
-      "name": "Dialog Box 2",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "2",
-      "x": 30,
-      "y": 78
-    },
-    {
-      "name": "Elevator 1",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "3",
-      "x": 30,
-      "y": 42
-    },
-    {
-      "name": "Elevator 2",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "3",
-      "x": 30,
-      "y": 46
-    },
-    {
-      "name": "stairs",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "3",
-      "x": 31,
-      "y": 35
-    },
-    {
-      "name": "Fire Exit",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "3",
-      "x": 31,
-      "y": 55
-    },
-    {
-      "name": "Male Washroom",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "3",
-      "x": 31,
-      "y": 28
-    },
-    {
-      "name": "Female Washroom",
-      "tag": "Registration",
-      "description": "Washroom, Facility, Restroom",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "3",
-      "x": 33,
-      "y": 28
-    },
-    {
-      "name": "Admin team",
-      "tag": "Incubation Manager",
-      "description": "Chamkaur Singh, Sandeep Banarwal",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "3",
-      "x": 29,
-      "y": 11
-    },
-    {
-      "name": "Manish Singh",
-      "tag": "Mentor",
-      "description": "Mentor (finding, Curate, istart support",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "3",
-      "x": 23,
-      "y": 36
-    },
-    {
-      "name": "Rakesh Sharma",
-      "tag": "Mentor",
-      "description": "Mentor (finding, Curate, istart support",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "3",
-      "x": 23,
-      "y": 41
-    },
-    {
-      "name": "Puneet Madan",
-      "tag": "Mentor",
-      "description": "Mentor (finding, Curate, istart support",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "3",
-      "x": 23,
-      "y": 48
-    },
-    {
-      "name": "Nikita Chaudhary",
-      "tag": "Mentor",
-      "description": "Mentor (finding, Curate, istart support",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "3",
-      "x": 23,
-      "y": 52
-    },
-    {
-      "name": "Dialog Box 3",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "3",
-      "x": 29,
-      "y": 73
-    },
-    {
-      "name": "Elevator 1",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 30,
-      "y": 42
-    },
-    {
-      "name": "Elevator 2",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 30,
-      "y": 46
-    },
-    {
-      "name": "stairs",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 31,
-      "y": 35
-    },
-    {
-      "name": "Fire Exit",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 31,
-      "y": 55
-    },
-    {
-      "name": "Male Washroom",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 31,
-      "y": 28
-    },
-    {
-      "name": "Female Washroom",
-      "tag": "Registration",
-      "description": "Washroom, Facility, Restroom",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 33,
-      "y": 28
-    },
-    {
-      "name": "Tinkering Lab",
-      "tag": "Registration",
-      "description": "3D printer, DIY Drones, Robotics and Electronics",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 26,
-      "y": 66
-    },
-    {
-      "name": "Operations Manager - Head",
-      "tag": "Registration",
-      "description": "3D printer, DIY Drones, Robotics and Electronics",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 23,
-      "y": 90
-    },
-    {
-      "name": "Shubham Gupta",
-      "tag": "Mentor",
-      "description": "Mentor (finding, Curate, istart support",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 18,
-      "y": 66
-    },
-    {
-      "name": "Saloni",
-      "tag": "Mentor",
-      "description": "Mentor (finding, Curate, istart support",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 18,
-      "y": 66
-    },
-    {
-      "name": "Hariom Soni",
-      "tag": "Office Incharge",
-      "description": "Atal Innovation Studio and accelerator",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 18,
-      "y": 58
-    },
-    {
-      "name": "Gyan Zone",
-      "tag": "Training Room",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 25,
-      "y": 54
-    },
-    {
-      "name": "Atal Innovation Studio and accelerator",
-      "tag": "Skill Development classroom",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 25,
-      "y": 21
-    },
-    {
-      "name": "BTH chair 4",
-      "tag": "Skill Development classroom",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 29,
-      "y": 11
-    },
-    {
-      "name": "Accessible Washroom",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "4",
-      "x": 59,
-      "y": 35
-    },
-    {
-      "name": "Elevator 1",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 30,
-      "y": 42
-    },
-    {
-      "name": "Elevator 2",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 30,
-      "y": 46
-    },
-    {
-      "name": "stairs",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 31,
-      "y": 35
-    },
-    {
-      "name": "Fire Exit",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 31,
-      "y": 55
-    },
-    {
-      "name": "Male Washroom",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 31,
-      "y": 28
-    },
-    {
-      "name": "Female Washroom",
-      "tag": "Registration",
-      "description": "Washroom, Facility, Restroom",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 33,
-      "y": 28
-    },
-    {
-      "name": "Battery Bank",
-      "tag": "Registration",
-      "description": "Sleeping Pods, Chess, Carom",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 28,
-      "y": 32
-    },
-    {
-      "name": "Inmap",
-      "tag": "Mapping and Navigation",
-      "description": "Indoor Navigation, IoT, GIS",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 23,
-      "y": 33
-    },
-    {
-      "name": "Minato",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 23,
-      "y": 44
-    },
-    {
-      "name": "Shilpi Sharma",
-      "tag": "Admin team",
-      "description": "Battery Bank Official",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 25,
-      "y": 7
-    },
-    {
-      "name": "Technical team (IStart)",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 15,
-      "y": 57
-    },
-    {
-      "name": "Dialogue Box 3",
-      "tag": "Staff Meeting Room",
-      "description": "Video Conferencing Room",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 23,
-      "y": 66
-    },
-    {
-      "name": "Gym",
-      "tag": "Workout, Exercise",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 27,
-      "y": 66
-    },
-    {
-      "name": "Accessible Washroom",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "5",
-      "x": 59,
-      "y": 35
-    },
-    {
-      "name": "Elevator 1",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "6",
-      "x": 30,
-      "y": 42
-    },
-    {
-      "name": "Elevator 2",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "6",
-      "x": 30,
-      "y": 46
-    },
-    {
-      "name": "stairs",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "6",
-      "x": 31,
-      "y": 35
-    },
-    {
-      "name": "Fire Exit",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "6",
-      "x": 31,
-      "y": 55
-    },
-    {
-      "name": "Male Washroom",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "6",
-      "x": 31,
-      "y": 28
-    },
-    {
-      "name": "Female Washroom",
-      "tag": "Registration",
-      "description": "Washroom, Facility, Restroom",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "6",
-      "x": 33,
-      "y": 28
-    },
-    {
-      "name": "Accessible Washroom",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "6",
-      "x": 59,
-      "y": 35
-    },
-    {
-      "name": "Ritu Tanwar",
-      "tag": "Head Admin team",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "6",
-      "x": 29,
-      "y": 11
-    },
-    {
-      "name": "Robo Kabaddi",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "7",
-      "x": 21,
-      "y": 36
-    },
-    {
-      "name": "Robo Soccer",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "7",
-      "x": 21,
-      "y": 47
-    },
-    {
-      "name": "Maintenance Head",
-      "tag": "Registration",
-      "description": "Registration, Incubation, Meeting",
-      "icon": "/assets/images/icons/place_icon.svg",
-      "level": "8",
-      "x": 27,
-      "y": 65
-    }
-  ]
+  {
+    "name": "Main Entrance / Exit",
+    "tag": "Entry & Exit",
+    "description": "Primary entry and exit point for visitors",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "S",
+    "x": 6,
+    "y": 48
+  },
+  {
+    "name": "Reception",
+    "tag": "Help Desk",
+    "description": "Visitor assistance, registration, and enquiries",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "S",
+    "x": 12,
+    "y": 50
+  },
+  {
+    "name": "Main Lobby",
+    "tag": "Waiting Area",
+    "description": "Central waiting and gathering area",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "S",
+    "x": 13,
+    "y": 75
+  },
+  {
+    "name": "Cafeteria",
+    "tag": "Food & Beverages",
+    "description": "Dining area for startups, staff, and visitors",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "1",
+    "x": 16,
+    "y": 41
+  },
+  {
+    "name": "Reserved Dining Area",
+    "tag": "Staff Dining",
+    "description": "Dining space for mentors, admin, and officials",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "1",
+    "x": 20,
+    "y": 70
+  },
+  {
+    "name": "Elevators",
+    "tag": "Vertical Transport",
+    "description": "Elevator access to all floors",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "1",
+    "x": 30,
+    "y": 44
+  },
+  {
+    "name": "Staircase",
+    "tag": "Vertical Transport",
+    "description": "Stair access between floors",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "1",
+    "x": 31,
+    "y": 35
+  },
+  {
+    "name": "Fire Exit",
+    "tag": "Emergency",
+    "description": "Emergency evacuation route",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "1",
+    "x": 31,
+    "y": 55
+  },
+  {
+    "name": "Male Washroom",
+    "tag": "Restroom",
+    "description": "Men’s restroom facility",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "1",
+    "x": 35,
+    "y": 32
+  },
+  {
+    "name": "Female Washroom",
+    "tag": "Restroom",
+    "description": "Women’s restroom facility",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "1",
+    "x": 33,
+    "y": 28
+  },
+  {
+    "name": "Accessible Washroom",
+    "tag": "Accessibility",
+    "description": "Wheelchair-accessible restroom",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "4",
+    "x": 59,
+    "y": 35
+  },
+  {
+    "name": "Startup Offices – Floor 2",
+    "tag": "Startup Zone",
+    "description": "Startup workspaces and offices",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "2",
+    "x": 12,
+    "y": 40
+  },
+  {
+    "name": "Admin Office",
+    "tag": "Administration",
+    "description": "Administrative and management office",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "3",
+    "x": 29,
+    "y": 11
+  },
+  {
+    "name": "Mentor Zone",
+    "tag": "Mentorship",
+    "description": "Mentor seating and consultation area",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "3",
+    "x": 23,
+    "y": 45
+  },
+  {
+    "name": "Meeting Rooms",
+    "tag": "Meetings",
+    "description": "Conference and discussion rooms",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "3",
+    "x": 29,
+    "y": 73
+  },
+  {
+    "name": "Tinkering Lab",
+    "tag": "Innovation Lab",
+    "description": "3D printers, robotics, and electronics lab",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "4",
+    "x": 26,
+    "y": 66
+  },
+  {
+    "name": "Gyan Zone",
+    "tag": "Training Room",
+    "description": "Workshops, training, and knowledge sessions",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "4",
+    "x": 25,
+    "y": 54
+  },
+  {
+    "name": "Atal Innovation Studio",
+    "tag": "Innovation & Accelerator",
+    "description": "Skill development and startup acceleration space",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "4",
+    "x": 25,
+    "y": 21
+  },
+  {
+    "name": "Recreation Zone",
+    "tag": "Relaxation",
+    "description": "Battery bank, indoor games, and rest area",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "5",
+    "x": 28,
+    "y": 32
+  },
+  {
+    "name": "Gym",
+    "tag": "Fitness",
+    "description": "Workout and exercise facility",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "5",
+    "x": 27,
+    "y": 66
+  },
+  {
+    "name": "InMap Office",
+    "tag": "Startup Office",
+    "description": "Indoor mapping and navigation solutions team",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "5",
+    "x": 23,
+    "y": 33
+  },
+  {
+    "name": "Technical Team (iStart)",
+    "tag": "Support",
+    "description": "Technical support and operations team",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "5",
+    "x": 15,
+    "y": 57
+  },
+  {
+    "name": "Robotics Activity Zone",
+    "tag": "Robotics",
+    "description": "Robotics games and demonstrations",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "7",
+    "x": 21,
+    "y": 42
+  },
+  {
+    "name": "Maintenance Office",
+    "tag": "Facility Management",
+    "description": "Building maintenance and support services",
+    "icon": "/assets/images/icons/place_icon.svg",
+    "level": "8",
+    "x": 27,
+    "y": 65
+  }
+]
+
+
 }

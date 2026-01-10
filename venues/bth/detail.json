@@ -197,8 +197,8 @@
     "description": "Operations oversight, facility coordination, and on-ground support",
     "icon": "/assets/images/icons/place_icon.svg",
     "level": "4",
-    "x": 23,
-    "y": 90
+    "x": 21,
+    "y": 92
   },
   {
     "name": "Recreation Zone",
